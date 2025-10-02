@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prod-001",
+    "title": "Wireless Bluetooth Headphones",
+    "shortDescription": "Premium noise-cancelling wireless headphones with 30-hour battery life.",
+    "description": "Experience immersive sound with our premium wireless Bluetooth headphones. Featuring active noise cancellation, these headphones block out distractions so you can focus on your music, podcasts, or calls. With 30 hours of battery life, quick charging, and comfortable over-ear design, they're perfect for travel, work, or relaxation.",
+    "price": 129.99,
+    "category": "Electronics",
+    "sku": "WH-2023-BLK",
+    "affiliateLink": "https://example.com/headphones",
+    "visibility": "visible",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "createdAt": "2023-10-15T08:30:00Z"
+  },
+  {
+    "id": "prod-002",
+    "title": "Organic Cotton T-Shirt",
+    "shortDescription": "Comfortable and sustainable organic cotton t-shirt in multiple colors.",
+    "description": "Made from 100% certified organic cotton, this t-shirt is not only comfortable but also environmentally friendly. The fabric is soft, breathable, and perfect for everyday wear. Available in multiple colors and sizes to fit your style. Each purchase supports sustainable farming practices.",
+    "price": 24.99,
+    "category": "Fashion",
+    "sku": "TS-ORG-COT",
+    "affiliateLink": "https://example.com/tshirt",
+    "visibility": "visible",
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "createdAt": "2023-10-10T14:20:00Z"
+  },
+  {
+    "id": "prod-003",
+    "title": "Stainless Steel Water Bottle",
+    "shortDescription": "Keep your drinks hot or cold for hours with this insulated stainless steel bottle.",
+    "description": "This premium stainless steel water bottle features double-wall vacuum insulation to keep beverages hot for up to 12 hours or cold for up to 24 hours. The leak-proof lid and durable construction make it perfect for outdoor activities, gym sessions, or daily use. BPA-free and available in various colors.",
+    "price": 34.99,
+    "category": "Fitness",
+    "sku": "WB-SS-750",
+    "affiliateLink": "https://example.com/waterbottle",
+    "visibility": "visible",
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1523362628745-0c100150b504?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "createdAt": "2023-10-05T11:45:00Z"
+  }
+]
